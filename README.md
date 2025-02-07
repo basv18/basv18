@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basv18
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Tkinter
+- 🌱 I’m currently learning Tkinter & Kali Linux. I am also learning Japanese!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can't burp
 
